@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmTraining", "AlgorithmTraining\AlgorithmTraining.csproj", "{06C9A1F5-5781-4A19-8257-FEA978180D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInt32", "AlgorithmTraining\RomanToInt32.csproj", "{06C9A1F5-5781-4A19-8257-FEA978180D4F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomChance", "RandomChance\RandomChance.csproj", "{376BC051-2B4C-43BA-B0AC-CA29B03F8CCF}"
 EndProject
